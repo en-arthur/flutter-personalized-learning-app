@@ -13,8 +13,7 @@ Key goals:
 - Clean, modular Flutter code structure
 - Ready for adding backend integrations (Firebase, REST API, etc.)
 
-## Screenshots
-(Add screenshots here: /assets/screenshots or link to hosted images)
+
 
 ## Getting started
 
@@ -61,22 +60,7 @@ flutter run -d chrome
 - assets/ — images, fonts, and other static assets
 - test/ — unit and widget tests
 
-Adjust structure to match your needs as features grow.
 
-## Configuration & Extensions
-- Backend: Add Firebase or REST API client under lib/src/services/
-- Local storage: Use shared_preferences, hive, or sqflite for offline persistence
-- State management: The project is neutral — add Provider, Riverpod, Bloc, etc., as preferred
-- Environment: Use flutter_dotenv or similar for secrets & env configuration
-
-## Contributing
-Contributions are welcome. Suggested workflow:
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feat/your-feature`
-3. Make changes and add tests
-4. Open a pull request with a clear description
-
-Keep changes small and focused.
 
 ## License
 Specify your license here (e.g., MIT). If you don't have one yet, add a LICENSE file to the repo.
@@ -86,3 +70,4 @@ Author: en-arthur
 GitHub: https://github.com/en-arthur
 
 If you want, tell me how you use this app (Firebase, REST API, specific state management) and I can update the README with tailored setup steps.
+
