@@ -60,14 +60,8 @@ flutter run -d chrome
 - assets/ — images, fonts, and other static assets
 - test/ — unit and widget tests
 
-
-
-## License
-Specify your license here (e.g., MIT). If you don't have one yet, add a LICENSE file to the repo.
-
 ## Contact
 Author: en-arthur  
 GitHub: https://github.com/en-arthur
 
-If you want, tell me how you use this app (Firebase, REST API, specific state management) and I can update the README with tailored setup steps.
 
